@@ -1,5 +1,5 @@
 ; #INDEX# =======================================================================================================================
-; Title .........: AutoItObject v1.2.8.2
+; Title .........: AutoItObject v1.2.8.4
 ; AutoIt Version : 3.3
 ; Language ......: English (language independent)
 ; Description ...: Brings Objects to AutoIt.
